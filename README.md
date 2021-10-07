@@ -12,7 +12,7 @@
 - 📫 How to reach me **laurierbryan77340@gmail.com**
 
 
-<h3 align="centert">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/bryan laurier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan laurier" height="30" width="40" /></a>
 <a href="https://instagram.com/@bryanlaurier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bryanlaurier" height="30" width="40" /></a>
