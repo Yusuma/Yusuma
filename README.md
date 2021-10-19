@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 📫 How to reach me **laurierbryan77340@gmail.com**
+- 📫 How to reach me **laurierbryan77340@gmail.com** 
+
+- 💻 My Website **https://yusuma.github.io/Bryan-Laurier---UX-UI-Webdesigner/#portfolio**
 
 
 <h3 align="center">Connect with me:</h3>
