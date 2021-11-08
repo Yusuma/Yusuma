@@ -41,6 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuma&show_icons=true&locale=en&layout=compact" alt="yusuma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuma&show_icons=true&locale=en" alt="yusuma" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yusuma&show_icons=true&locale=en" alt="yusuma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuma&" alt="yusuma" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuma&" alt="yusuma" /></p>
