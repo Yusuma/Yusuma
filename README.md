@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **/**
 
-- 👨‍💻 All of my projects are available at [/](/)
+- 👨‍💻 All of my projects are available at **/**
 
-- 📝 I regularly write articles on [/](/)
+- 📝 I regularly write articles on **/**
 
 - 💬 Ask me about **html/css/js**
 
-- 📫 How to reach me **laurierbryan77340@gmail.com**
+- 📫 Reach me at **laurierbryan77340@gmail.com**
 
-- 📄 Know about my experiences [/](/)
+- 📄 Know about my experiences **/**
 
 - ⚡ Fun fact **/**
 
