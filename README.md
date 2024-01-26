@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **html/css/js**
 
-- 📫 Reach me at **digit.laurierbryan@gmail.com**
+- 📫 Reach me at **mermaidlaboff@gmail.com**
 
 - 📄 Know about my experiences **/**
 
