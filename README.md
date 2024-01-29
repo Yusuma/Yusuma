@@ -9,21 +9,21 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👯 I’m looking to collaborate on **/**
+- 👯 I’m looking to collaborate on **nothing actualy**
 
-- 🤝 I’m looking for help with **/**
+- 🤝 I’m looking for help with **nothing actualy**
 
-- 👨‍💻 All of my projects are available at **/**
+- 👨‍💻 All of my projects are available at **behance**
 
-- 📝 I regularly write articles on **/**
+- 📝 I regularly write articles on **nothing actualy**
 
 - 💬 Ask me about **html/css/js**
 
 - 📫 Reach me at **mermaidlaboff@gmail.com**
 
-- 📄 Know about my experiences **/**
+- 📄 Know about my experiences **[/](https://yusuma.github.io/Bryan-Laurier--UX-UI-Webdesigner/#home)**
 
-- ⚡ Fun fact **/**
+- ⚡ Fun fact **nothing actualy**
 <hr>
 
 
